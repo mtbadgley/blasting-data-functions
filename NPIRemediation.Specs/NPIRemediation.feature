@@ -1,6 +1,6 @@
 ﻿Feature: NPIRemediation
 	In order ensure that no unsecure data is migrated
-	As a CapOne V1 Administrator
+	As a V1 Administrator
 	I want all strings matching secure data patterns to be masked
 
 @maskacreditcard

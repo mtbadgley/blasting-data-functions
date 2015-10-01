@@ -4,7 +4,7 @@ using TechTalk.SpecFlow;
 namespace NPIRemediation.Specs
 {
     [Binding]
-    public class NPIRemediationSteps
+    public class NpiRemediationSteps
     {
         readonly NPIRemediation _remediation = new NPIRemediation();
         private string _evaluation;
